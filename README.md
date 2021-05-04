@@ -7,4 +7,4 @@
 ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical)
