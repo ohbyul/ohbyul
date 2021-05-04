@@ -22,6 +22,7 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com)](mailto:quf8093@gmail.com)
+	
 
 </div>
