@@ -1,5 +1,5 @@
-##👋 Hi, I’m @ohbyul 
-<div align=center>내용</div>
+
+<div align=center>👋 Hi, I’m @ohbyul </div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
 
