@@ -6,11 +6,13 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 
-
+<br>
 
 <div align=center><h1>✍ stack </h1></div>
 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 
 
 <hr>
