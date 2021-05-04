@@ -1,7 +1,8 @@
 
 <div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical){: .center}
+<center>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical)</center>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
 <hr>
