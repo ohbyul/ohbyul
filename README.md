@@ -8,7 +8,7 @@
 
 
 
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+<div align=center><h1>✍ stack </h1></div>
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
