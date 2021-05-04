@@ -6,6 +6,8 @@
 <div align=center>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+
+
 <hr>
 
 
@@ -22,7 +24,10 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com)](mailto:quf8093@gmail.com)
-	
+</a> <a href="mailto:quf8093@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 </div>
