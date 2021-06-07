@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=95e1d3&height=150&section=header&text=Byul%20Oh&fontSize=80&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=00e5ff&height=150&section=header&text=Byul%20Oh&fontSize=80&fontColor=black)
 
 <!--<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>-->
 
@@ -55,4 +55,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=fce38a&height=150)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=ffff00&height=150)
