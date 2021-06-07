@@ -55,4 +55,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=ffff00&height=150)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=ffff8d&height=150)
