@@ -1,9 +1,9 @@
 
+<div align=center>
+    
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=00e5ff&height=150&section=header&text=Byul%20Oh&fontSize=80&fontColor=black)
 
 <!--<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>-->
-
-<div align=center>
 
 <!-- 통계 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
@@ -35,7 +35,6 @@
 <!--<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> -->
 
 
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=ffff8d&height=150)
 
@@ -58,3 +57,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+
+</div>
