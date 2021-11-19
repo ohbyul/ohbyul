@@ -11,7 +11,7 @@
 <br>
 
 <!-- 기술 스택 -->
-<div align=center><h1>✍ stack </h1></div>
+<div align=center><h2>✍ stack </h2></div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=black">
@@ -35,13 +35,7 @@
 <!--<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> -->
 
 
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=ffff8d&height=150)
-
-
-<!-- 팔로잉 체크 -->
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
-
+<div align=center><h2>🙏 contact </h2></div>
 <!-- 연락 링크 등 -->
 <a href="https://byul91oh.tistory.com/">
     <img 
@@ -57,5 +51,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<!-- 팔로잉 체크 -->
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fohbyul&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=ffff8d&height=150)
 
 </div>
